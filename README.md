@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi I'm Leon,
+##Java and full stack developper
+My hobby is bike downhill, freeride and dirt jumping. I also play drums.
+I like metal and rock
+###Languages I use:
+![Java](https://github.com/l299l/l299l/blob/main/java.jpg?raw=true)
+![C#](https://github.com/l299l/l299l/blob/main/cs.jpg?raw=true)
+![Python](https://github.com/l299l/l299l/blob/main/python.jpg?raw=true)
+![JavaScript](https://github.com/l299l/l299l/blob/main/js.jpg?raw=true)
+![Kotlin](https://github.com/l299l/l299l/blob/main/kotlin.jpg?raw=true)
+![PHP](https://github.com/l299l/l299l/blob/main/php.jpg?raw=true)
+![Groovy](https://github.com/l299l/l299l/blob/main/groovy.jpg?raw=true)
+![Lua](https://github.com/l299l/l299l/blob/main/lua.jpg?raw=true)
+![GDScript](https://github.com/l299l/l299l/blob/main/gd.jpg?raw=true)
+![Jupyter](https://github.com/l299l/l299l/blob/main/Jupyter.jpg?raw=true)
 
-<!--
-**l299l/l299l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Cool tools, ides and frameworks I use:
+![Spring Boot](https://github.com/l299l/l299l/blob/main/spring.jpg?raw=true)
+![Spigot](https://github.com/l299l/l299l/blob/main/spigot.jpg?raw=true)
+![Bootstrap](https://github.com/l299l/l299l/blob/main/bootstrap.jpg?raw=true)
+![GoDot](https://github.com/l299l/l299l/blob/main/godot.jpg?raw=true)
+![LibGDX](https://github.com/l299l/l299l/blob/main/libgdx.jpg?raw=true)
+![Git](https://github.com/l299l/l299l/blob/main/git.jpg?raw=true)
+![IntelliJ](https://github.com/l299l/l299l/blob/main/intellij.jpg?raw=true)
+![PyCharm](https://github.com/l299l/l299l/blob/main/pycharm.jpg?raw=true)
+![PhpStorm](https://github.com/l299l/l299l/blob/main/phpstorm.jpg?raw=true)
+![DataGrip](https://github.com/l299l/l299l/blob/main/datagrip.jpg?raw=true)
+![DataSpell](https://github.com/l299l/l299l/blob/main/dataspell.jpg?raw=true)
