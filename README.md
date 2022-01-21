@@ -1,8 +1,9 @@
 # Hi I'm Leon,
-##Java and full stack developper
+## Java and full stack developper
 My hobby is bike downhill, freeride and dirt jumping. I also play drums.
 I like metal and rock
-###Languages I use:
+### Languages I use:
+(I don't hae time to upoad images)
 ![Java](https://github.com/l299l/l299l/blob/main/java.jpg?raw=true)
 ![C#](https://github.com/l299l/l299l/blob/main/cs.jpg?raw=true)
 ![Python](https://github.com/l299l/l299l/blob/main/python.jpg?raw=true)
@@ -14,7 +15,8 @@ I like metal and rock
 ![GDScript](https://github.com/l299l/l299l/blob/main/gd.jpg?raw=true)
 ![Jupyter](https://github.com/l299l/l299l/blob/main/Jupyter.jpg?raw=true)
 
-###Cool tools, ides and frameworks I use:
+### Cool tools, ides and frameworks I use:
+(I don't hae time to upoad images)
 ![Spring Boot](https://github.com/l299l/l299l/blob/main/spring.jpg?raw=true)
 ![Spigot](https://github.com/l299l/l299l/blob/main/spigot.jpg?raw=true)
 ![Bootstrap](https://github.com/l299l/l299l/blob/main/bootstrap.jpg?raw=true)
