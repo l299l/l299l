@@ -4,7 +4,7 @@ My hobby is bike downhill, freeride and dirt jumping. I also play drums.
 I like metal and rock
 ### Languages I use:
 (I don't hae time to upoad images)
-![Java](https://github.com/l299l/l299l/blob/main/java.svg?raw=true)
+![Java](https://github.com/l299l/l299l/blob/main/img/java.svg?raw=true =100x100)
 ![C#](https://github.com/l299l/l299l/blob/main/cs.jpg?raw=true)
 ![Python](https://github.com/l299l/l299l/blob/main/python.jpg?raw=true)
 ![JavaScript](https://github.com/l299l/l299l/blob/main/js.jpg?raw=true)
