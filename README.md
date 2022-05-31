@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">Java and full stack developper from Poland</h3>
 
-- 🔭 I’m currently working on WolfCreatorsStudios Website and [Games](https://github.com/Wolfyxon/HeroOfTheEarth-game)
+- 🔭 I’m currently working on very modern and advenced bedwars plugin. Also works on WolfCreatorsStudios Website and [Games](https://github.com/Wolfyxon/HeroOfTheEarth-game)
 
-- 🌱 I’m currently learning **LibGDX, Machine learning, Data science and other maths algorithms**
+- 🌱 I’m currently learning **LibGDX, Machine learning, Data science and other algorithms**
 
 - 👯 I’m collaborate with [Wolfyxon](https://github.com/Wolfyxon)
 
