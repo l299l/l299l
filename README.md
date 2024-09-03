@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">Java and full stack developper from Poland</h3>
-
-- 🔭 I’m currently working on advenced bedwars plugin. Also works on WolfCreatorsStudios Website and [Games](https://github.com/Wolfyxon/HeroOfTheEarth-game)
-
-- 👯 I’m collaborate with [Wolfyxon](https://github.com/Wolfyxon)
-
-- 👨‍💻 All of my projects are available at (my portfolio page is under construction)
-
-- 💬 Ask me about **spring and minecraft plugins/mods development**
-
-- 📫 You can reach me on discord **! l299l#5809**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leon45680919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leon45680919" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16599092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16599092" height="30" width="40" /></a>
 <a href="https://discord.gg/RztUGCK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bMtssGVAc4" height="30" width="40" /></a>
  <a href="https://www.spigotmc.org/members/l299l.1203847/" target="blank"><img align="center" src="https://static.spigotmc.org/img/spigot.png" alt="spigotmc" height="30" width="40" /></a>
 </p>
