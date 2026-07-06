@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Leon's GitHub stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/l299l/Portfolio/refs/heads/master/profile/stats.svg" alt="Leon's GitHub stats" />
+  <img src="https://raw.githubusercontent.com/l299l/Portfolio/refs/heads/master/profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
